@@ -1,7 +1,7 @@
 # PS4 Payload Sender
-Send payload to your PS4 (tried on 4.05)
+GUI to send payloads to your PS4 (inthecatsdreams added support for multiple payloads)
 
-![Capture](https://image.noelshack.com/fichiers/2017/52/1/1514200744-capture.png)
+![Capture](capture.png)
 
 Android version:
 
