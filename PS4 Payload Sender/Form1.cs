@@ -80,7 +80,7 @@ namespace PS4_Payload_Sender
             openFileDialog1.ShowDialog();
             path = openFileDialog1.FileName;
             button2.Text = path;
-            groupBox2.Enabled = false;
+            groupBox2.Enabled = true;
             groupBox3.Enabled = true;
         }
 
@@ -98,6 +98,8 @@ namespace PS4_Payload_Sender
             {
                 DisconnectPayload();
                 MessageBox.Show("Payload sent!");
+                button2.Text = "Select another payload";
+                path = "";
             }
             catch (Exception ex)
             {
@@ -105,9 +107,6 @@ namespace PS4_Payload_Sender
             }
         }
 
-        private void pictureBox60_Click(object sender, EventArgs e)
-        {
-            System.Diagnostics.Process.Start("http://customprotocol.com");
-        }
+        
     }
 }

@@ -18,3 +18,13 @@ C:\Users\valentinbreiz\Documents\GitHub\PS4-Payload-Sender\PS4 Payload Sender\ob
 C:\Users\valentinbreiz\Documents\GitHub\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.csproj.CoreCompileInputs.cache
 C:\Users\valentinbreiz\Documents\GitHub\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.exe
 C:\Users\valentinbreiz\Documents\GitHub\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.pdb
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.exe.config
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.exe
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.pdb
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.csproj.AssemblyReference.cache
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4_Payload_Sender.Form1.resources
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4_Payload_Sender.Properties.Resources.resources
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.csproj.GenerateResource.cache
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.exe
+C:\Users\ilya\Source\Repos\PS4-Payload-Sender\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.pdb
