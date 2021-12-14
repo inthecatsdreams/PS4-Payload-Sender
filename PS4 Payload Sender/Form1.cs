@@ -20,6 +20,8 @@ namespace PS4_Payload_Sender
             }
             else
             {
+                ip = textBox1.Text;
+                port = textBox2.Text;
                 bool result = Connect2PS4(textBox1.Text, textBox2.Text);
                 if (!result)
                 {
@@ -36,6 +38,7 @@ namespace PS4_Payload_Sender
         public static Socket _psocket;
         public static bool pDConnected;
         public static string Exception;
+        public static string ip, port;
 
         public static bool Connect2PS4(string ip, string port)
         {
@@ -99,6 +102,8 @@ namespace PS4_Payload_Sender
                 DisconnectPayload();
                 MessageBox.Show("Payload sent!");
                 button2.Text = "Select another payload";
+                Connect2PS4(ip, port);
+                groupBox3.Enabled = false;
                 path = "";
             }
             catch (Exception ex)
